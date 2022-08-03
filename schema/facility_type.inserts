@@ -1,0 +1,2 @@
+INSERT INTO facility_type (id, facility_type) VALUES (1, 'truck');
+INSERT INTO facility_type (id, facility_type) VALUES (2, 'push cart');

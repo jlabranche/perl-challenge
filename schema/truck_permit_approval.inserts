@@ -1,0 +1,4 @@
+INSERT INTO truck_permit_approval (id, truck_approval) VALUES (1, 'REQUESTED');
+INSERT INTO truck_permit_approval (id, truck_approval) VALUES (2, 'APPROVED');
+INSERT INTO truck_permit_approval (id, truck_approval) VALUES (3, 'EXPIRED');
+INSERT INTO truck_permit_approval (id, truck_approval) VALUES (4, 'SUSPEND');
